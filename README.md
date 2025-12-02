@@ -20,4 +20,4 @@ It models books, authors, and their relationships, including:
 
 -Testable HTTP requests in the /test/http folder
 
--The goal is to demonstrate strong fundamentals in CAP domain modeling, service design, and real database integration.
+-The goal is to demonstrate strong fundamentals in CAP domain modeling, service design, and database integration.
